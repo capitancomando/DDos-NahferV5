@@ -36,10 +36,11 @@ echo "
 "
 
 echo "Creador:Capitan Comando"
+echo ""
 echo "Nahfer hacking programations"
-
+echo ""
 echo "ATAQUE DDOS NAHFER"
-
+echo ""
 echo "Ingresa una Url
 ~~>"
 
